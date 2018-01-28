@@ -1,0 +1,2 @@
+font-awesome
+director скрываем ,и показываем только на active
